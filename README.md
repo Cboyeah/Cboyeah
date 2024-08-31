@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cboyeah (SebaYeah), un joven que le gusta programar, explorar y por sobre todo jugar.
+- 👋 Hi, I’m @Cboyeah (SebaYeah), a young that like play
 - 👀 I’m interested in Software/Web development
 - 🌱 I’m currently learning Object-Oriented-Programation in Python and Java
 - 💞️ I’m looking to collaborate on nothing for the moment :)
